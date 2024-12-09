@@ -23,5 +23,5 @@
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/CustomerDemoApp.git
+git clone https://github.com/iainlennox/CustomerDemoApp.git
 cd CustomerDemoApp
